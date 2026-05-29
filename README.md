@@ -1,1 +1,1 @@
-# LandUse-ClassificationPekalonganCity-Using-MachineLearning-GoogleColab
+# LandUse-ClassificationPekalongan-City-Using-MachineLearning-GoogleColab
